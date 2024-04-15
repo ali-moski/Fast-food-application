@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable-ldpi/btn_background.xml" value="0.2055" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/bg.xml" value="0.2035" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/bottom_background.xml" value="0.2105" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/btn_background.xml" value="0.2105" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/btn_backgroundd.xml" value="0.145" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/colorbtn.xml" value="0.2105" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/edittext_background.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/ggra.xml" value="0.1805" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/gray_backgrond.xml" value="0.1805" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/header1_background.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/header2_background.xml" value="0.2115" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.2115" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/item_selector.xml" value="0.1825" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/math_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/ooval_background.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/top_background.xml" value="0.164" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/drawable/white_backgtuond.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_main2.xml" value="0.14" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_main3.xml" value="0.13" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_main4.xml" value="0.22" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_profile.xml" value="0.19" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_search.xml" value="0.12" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/layout/activity_settings.xml" value="0.12" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/MyApplication55/app/src/main/res/menu/bottom_menu.xml" value="0.21238938053097345" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
